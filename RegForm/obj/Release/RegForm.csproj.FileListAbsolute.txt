@@ -1,0 +1,7 @@
+E:\地税辅助录入修改\20141020\RegForm\bin\Release\RegForm.exe
+E:\地税辅助录入修改\20141020\RegForm\bin\Release\RegForm.pdb
+E:\地税辅助录入修改\20141020\RegForm\obj\Release\RegForm.Form1.resources
+E:\地税辅助录入修改\20141020\RegForm\obj\Release\RegForm.Properties.Resources.resources
+E:\地税辅助录入修改\20141020\RegForm\obj\Release\RegForm.csproj.GenerateResource.Cache
+E:\地税辅助录入修改\20141020\RegForm\obj\Release\RegForm.exe
+E:\地税辅助录入修改\20141020\RegForm\obj\Release\RegForm.pdb

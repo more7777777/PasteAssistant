@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "粘贴助手20170519", "粘贴助手20170519\粘贴助手20170519.csproj", "{8C73E4B4-9CDB-4504-B833-A3B35837EAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegForm", "RegForm\RegForm.csproj", "{81EB9040-85DC-41F8-B569-B178FBB24C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C73E4B4-9CDB-4504-B833-A3B35837EAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C73E4B4-9CDB-4504-B833-A3B35837EAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C73E4B4-9CDB-4504-B833-A3B35837EAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C73E4B4-9CDB-4504-B833-A3B35837EAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EB9040-85DC-41F8-B569-B178FBB24C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EB9040-85DC-41F8-B569-B178FBB24C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EB9040-85DC-41F8-B569-B178FBB24C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EB9040-85DC-41F8-B569-B178FBB24C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

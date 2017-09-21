@@ -1,0 +1,16 @@
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\bin\Debug\粘贴助手20170519.exe.config
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\bin\Debug\粘贴助手20170519.exe
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\bin\Debug\粘贴助手20170519.pdb
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.Form1.resources
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.Properties.Resources.resources
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.ShowClipBoardForm.resources
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.csproj.GenerateResource.Cache
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.exe
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.pdb
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.MessageForm.resources
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\RegForm.frmRegisterForm.resources
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\bin\Debug\粘贴助手20170519.exe.manifest
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\bin\Debug\粘贴助手20170519.application
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.exe.manifest
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.application
+D:\VS2015目录\Projects\粘贴助手20170519\粘贴助手20170519\obj\Debug\粘贴助手20170519.csprojResolveAssemblyReference.cache
